@@ -107,12 +107,11 @@ Use the `per_school_summary` DataFrame from the previous step to create a new Da
 
 This new DataFrame should show school performance based on the "School Type".
 
+---
 ## References
 
-<<<<<<< HEAD
-* (Dropping invalid columns FutureWarning)[https://stackoverflow.com/questions/72223610/dropping-invalid-columns-futurewarning[]
+* [Stackoverflow: FutureWarning: The default value of regex will change from True to False in a future version](https://stackoverflow.com/a/66607872/21718760)
 
-* (Converting currency with $ to numbers in Python pandas)[https://stackoverflow.com/a/32465968/21718760]
-=======
 * [Stackoverflow: Dropping invalid columns FutureWarning](https://stackoverflow.com/questions/72223610/dropping-invalid-columns-futurewarning)
->>>>>>> a3a1e3f63bcea74e26ea092add3f235532513915
+
+* [Stackoverflow: Converting currency with $ to numbers in Python pandas](https://stackoverflow.com/a/32465968/21718760)
